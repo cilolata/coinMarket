@@ -10,8 +10,8 @@ Objetivo: fazer uma requisição de uma API de Biticoin e mostrar nome, símbolo
 | Bootstrap  |
 | JavaScript |
 
+
 ![foto do site Coin Market Cap](https://github.com/cilolata/coinMarket/blob/main/coinMarket.PNG)
 
 
 
-netflix-interface
